@@ -2,16 +2,9 @@
 
 XTB is a globally recognized online brokerage firm, offering a wide range of financial instruments and services to traders and investors. Established in 2002 and headquartered in Warsaw, Poland, XTB has expanded its presence across multiple countries, serving over 1.36 million clients worldwide by the end of 2024.
 
-## 🔍 Comparison of Top Brokers
+🔗 [**Go to XTB Broker**](https://link-pso.xtb.com/pso/zrUCY)
 
-| Broker       | Features                                                                 | Affiliate Link                                                                 |
-|--------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Exness       | Tight spreads, instant execution, wide range of instruments              | [Exness](https://one.exnesstrack.org/a/english23)                             |
-| JustMarkets  | Flexible account types, competitive trading conditions                   | [JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj)                      |
-| XM           | Low spreads, no re-quotes, multiple platforms                            | [XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)                    |
-| Pepperstone  | Fast execution, low latency, advanced trading tools                      | [Pepperstone](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) |
-| AvaTrade     | User-friendly platforms, extensive educational resources                 | [AvaTrade](https://www.avatrade.com?versionId=10301&tag=194438)               |
-| FBS          | Cent accounts, leverage up to 1:3000, various promotions                 | [FBS](https://fbs.partners?ibl=587836&ibp=21398815)                           |
+✅ [**Open Account, Link here**](https://link-pso.xtb.com/pso/CgswI)
 
 <details>
   <summary>📚 Table of Contents</summary>
@@ -116,6 +109,18 @@ XTB's commitment to regulatory compliance ensures a secure trading environment.
 - **Limited Product Range**: Primarily focuses on CFDs and forex
 - **No MetaTrader Support**: Lacks integration with MT4/MT5 platforms
 - **Inactivity Fee**: Charges apply after prolonged inactivity
+
+## 🔍 Comparison of Top Brokers
+
+| Broker       | Features                                                                 | Affiliate Link                                                                 |
+|--------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Exness       | Tight spreads, instant execution, wide range of instruments              | [Exness](https://one.exnesstrack.org/a/english23)                             |
+| JustMarkets  | Flexible account types, competitive trading conditions                   | [JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj)                      |
+| XM           | Low spreads, no re-quotes, multiple platforms                            | [XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)                    |
+| Pepperstone  | Fast execution, low latency, advanced trading tools                      | [Pepperstone](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) |
+| AvaTrade     | User-friendly platforms, extensive educational resources                 | [AvaTrade](https://www.avatrade.com?versionId=10301&tag=194438)               |
+| FBS          | Cent accounts, leverage up to 1:3000, various promotions                 | [FBS](https://fbs.partners?ibl=587836&ibp=21398815)                           |
+
 
 ## ❓ FAQs
 
