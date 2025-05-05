@@ -80,10 +80,10 @@ However, affiliate partnerships **do not influence reviews or recommendations**.
 
 Here are a few of the most-read and impactful pieces available in this repository:
 
-- 📌 [Best Forex Brokers with ZAR Accounts for South African Traders (2025)](link-here)
-- 📌 [Unlimited Leverage Brokers – Top Highest Leverage Forex Brokers](link-here)
-- 📌 [Exness Broker Review 2025: Pros and Cons (Spanish, for Argentina & Bolivia)](link-here)
-- 📌 [XM vs Exness vs FBS: Which Broker Wins in 2025?](link-here)
+- 📌 [Best Forex Brokers with ZAR Accounts for South African Traders (2025)](https://github.com/TMTrader/Forex/blob/main/Best%20Forex%20Brokers%20with%20ZAR%20Accounts%20for%20South%20African%20Traders%20.md)
+- 📌 [Best Leverage for $100 FOREX Account](https://github.com/TMTrader/Forex/blob/main/Best%20Leverage%20for%20%24100%20FOREX%20Account%3A%20A%20Complete%20Beginner's%20Guide%20.md)
+- 📌 [Exness Broker Review 2025: Pros and Cons ](https://github.com/TMTrader/Forex/blob/main/What%20is%20EXNESS%20broker%3F%20What%20kind%20of%20broker%20is%20Exness%3F%20.md)
+- 📌 [What is XM broker](https://github.com/TMTrader/Forex/blob/main/What%20is%20XM%20broker%3F%20What%20kind%20of%20broker%20is%20XM%3F%20.md)
 
 You can expect fresh articles every week — including broker updates, market outlooks, and trading how-tos.
 
@@ -93,7 +93,7 @@ You can expect fresh articles every week — including broker updates, market ou
 
 Want to collaborate, request a broker review, or just say hi? TMTrader is open to partnerships, contributions, and community feedback.
 
-- 🌐 Website: Coming Soon
+- 🌐 Website: [https://linktr.ee/ForexBrokersTop](https://linktr.ee/ForexBrokersTop)
 - 📧 Email: tmtrader.contact [at] gmail.com
 - 🐦 Twitter: @TMTraderFX _(coming soon)_
 - 🌍 Languages: English, Spanish, French, Portuguese, Arabic, Dutch
